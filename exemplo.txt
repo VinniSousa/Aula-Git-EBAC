@@ -1,1 +1,3 @@
 Teste de arquivo de texto
+
+Alterando arquivo depois de clonar
